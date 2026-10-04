@@ -58,5 +58,6 @@ This Privacy Policy may be updated from time to time to reflect changes to the A
 
 Contact
 
-If you have questions about this Privacy Policy or the App’s privacy practices, contact:
+If you have questions about this Privacy Policy or the App’s privacy practices, contact: notmybingoappsupport@gmail.com
+
 
