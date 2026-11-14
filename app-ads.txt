@@ -1,1 +1,9 @@
+# app-ads.txt — same format as ads.txt, but for mobile apps.
+# Spec: IAB Tech Lab — https://iabtechlab.com/app-ads-txt/
+# Hosted at the developer URL declared in the app store listing
+# (Google Play / Apple App Store "Developer Website" field).
+
+contact=notmybingoappsupport@gmail.com
+
+# Direct app inventory sellers
 google.com, pub-2644763924590709, DIRECT, f08c47fec0942fa0
